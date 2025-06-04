@@ -11,5 +11,3 @@
 #
 
 # Modify default IP
-
-git clone --branch master https://github.com/UnblockNeteaseMusic/luci-app-unblockneteasemusic.git package/lean/luci-app-unblockneteasemusic
